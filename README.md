@@ -95,4 +95,3 @@ Dashboard mencakup:
 
 ---
 
-**Dibuat sebagai project pembelajaran Data Science — Supervised Learning untuk Deteksi Intrusi Jaringan dengan NSL-KDD.**
