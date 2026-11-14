@@ -282,11 +282,11 @@ st.sidebar.caption(
 # =====================================================================
 # MAIN CONTENT
 # =====================================================================
-st.title("Dashboard Deteksi Intrusi Jaringan — NSL-KDD")
+st.title("WatchNET Dashboard")
 st.caption(f"Data: NSL-KDD Train+ | {len(raw_df):,} baris × {raw_df.shape[1]} kolom")
 
 # Tampilkan informasi waktu pelatihan di awal
-st.info("⏱**Proses pelatihan model sedang berlangsung...**\n\n"
+st.info("**Proses pelatihan model sedang berlangsung...**\n\n"
         "Pelatihan 3 model (Decision Tree, Random Forest, Gradient Boosting) "
         "memakan waktu sekitar **1-2 menit**. Harap tunggu hingga selesai.\n\n")
 
