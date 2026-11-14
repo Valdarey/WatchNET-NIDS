@@ -19,7 +19,7 @@ from sklearn.metrics import (
 # KONFIGURASI HALAMAN
 # =====================================================================
 st.set_page_config(
-    page_title="Dashboard Deteksi Intrusi Jaringan",
+    page_title="WatchNET Dashboard",
     page_icon="",
     layout="wide",
 )
