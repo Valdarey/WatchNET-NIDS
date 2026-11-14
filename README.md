@@ -1,4 +1,4 @@
-# Deteksi Intrusi Jaringan — NSL-KDD
+# WatchNET (NETWORK INTRUSION DETECTION SYSTEM)
 
 Project ini menggunakan **supervised learning (klasifikasi multi-kelas)** untuk mendeteksi dan mengklasifikasikan jenis serangan pada lalu lintas jaringan menggunakan dataset **NSL-KDD**.
 
