@@ -1,4 +1,4 @@
-# WatchNET (NETWORK INTRUSION DETECTION SYSTEM)
+# WatchNET (Network Intrusion Detection System)
 
 Project ini menggunakan **supervised learning (klasifikasi multi-kelas)** untuk mendeteksi dan mengklasifikasikan jenis serangan pada lalu lintas jaringan menggunakan dataset **NSL-KDD**.
 
